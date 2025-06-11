@@ -1,0 +1,3 @@
+# Rename this file to config.py and fill in your OpenRouter key
+OPENROUTER_API_KEY = "your-openrouter-key"
+MODEL_NAME = "perplexity/llama-3-sonar-small-online"
